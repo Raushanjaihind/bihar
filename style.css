@@ -1,0 +1,46 @@
+body{
+    background:turquoise;
+}
+.toparea{
+    background:turquoise;
+    padding: 20px 0;
+}
+.logo img{
+    height: 120px;
+}
+.toparea h1{
+    color:#FFF;
+    text-shadow: 5px 5px 5px #000;
+    text-align:center;
+    margin-top:25px;
+}
+
+.boxarea{
+    background:#FFF;
+    padding:50px 0;
+}
+.boxarea h2{
+    text-align: center;
+    text-shadow: 5px 5px 5px yellowgreen;
+    color: #000;
+    margin-top:25px;
+}
+.box{
+    overflow:hidden;
+    margin: 20px;
+    border-radius:20px;
+    box-shadow:5px 5px 5px #000;
+}
+
+.nav-link{
+    color: red!important;
+    font-weight: bold;
+    background: white;
+    padding: 10px 25px !important;
+}
+.nav-link:hover{
+    color: white!important;
+    
+    background: turquoise;
+    
+}
